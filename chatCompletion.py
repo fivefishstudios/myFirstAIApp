@@ -11,7 +11,7 @@ you are a very knowledgeable and helpful language expert
 # and explain like I'm five on second paragraph, 
 
 prompt = """
-Compose a poem about resistors and transistors and capacitors
+Explain ohm's law. Explain like I'm 5.
 """
 
 response = openai.ChatCompletion.create(
